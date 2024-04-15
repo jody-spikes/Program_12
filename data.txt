@@ -1,0 +1,9 @@
+Name     Major    Test1    Test2    Test3    Test4    Test5    Test6    Test7    Test8    Test9    Test10
+Collin   MTH    50    56    89    68    69    94    62    98    76
+Rob      BINF    55    71    83    100    86    58    54    91    76    80
+Joyce    BUS    53    59    63    98    88    98    56    87    62    83
+Danielle MTH
+Jordynne BUS    61
+Arum     CSI    66    70    93    96    82    75    84    78
+Biagio   MTH    73    52    71    84    83    85
+
